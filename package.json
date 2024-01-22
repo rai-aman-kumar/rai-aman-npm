@@ -1,0 +1,16 @@
+{
+  "name": "rai-aman-npm",
+  "version": "0.0.6",
+  "description": "Practice npm with dummy package",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [
+    "npm",
+    "practice"
+  ],
+  "author": "rai-aman-kumar",
+  "license": "MIT"
+}
