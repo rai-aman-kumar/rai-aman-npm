@@ -3,6 +3,10 @@
   "version": "0.0.6",
   "description": "Practice npm with dummy package",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rai-aman-kumar/rai-aman-npm"
+  },
   "files": [
     "dist"
   ],
