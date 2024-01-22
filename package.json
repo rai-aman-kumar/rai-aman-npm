@@ -1,12 +1,13 @@
 {
   "name": "rai-aman-npm",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Practice npm with dummy package",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/rai-aman-kumar/rai-aman-npm"
   },
+  "homepage": "https://netflix.com",
   "files": [
     "dist"
   ],
