@@ -1,6 +1,6 @@
 {
   "name": "rai-aman-npm",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Practice npm with dummy package",
   "main": "index.js",
   "repository": {
