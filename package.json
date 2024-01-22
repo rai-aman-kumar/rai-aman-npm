@@ -1,6 +1,6 @@
 {
   "name": "rai-aman-npm",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Practice npm with dummy package",
   "main": "index.js",
   "repository": {
@@ -17,5 +17,8 @@
     "practice"
   ],
   "author": "rai-aman-kumar",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^4.9.6"
+  }
 }
